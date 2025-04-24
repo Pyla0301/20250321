@@ -1,0 +1,11 @@
+question,options,answer,type
+以下哪個是太陽系的行星？,"地球,月球,太陽",地球,choice
+以下哪個是哺乳動物？,"鯨魚,鯊魚,章魚",鯨魚,choice
+以下哪個是水果？,"蘋果,番茄,馬鈴薯",蘋果,choice
+請填寫 2 + 2 的答案？,,4,fill
+請填寫太陽的顏色？,,黃色,fill
+以下哪個是程式語言？,"Python,HTML,Photoshop",Python,choice
+請填寫地球的衛星名稱？,,月球,fill
+以下哪個是冷血動物？,"蛇,狗,貓",蛇,choice
+請填寫 5 x 5 的答案？,,25,fill
+以下哪個是行星？,"火星,月亮,太陽",火星,choice
